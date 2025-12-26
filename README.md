@@ -8,3 +8,4 @@ Verilog Code and Testbench for implementation of 1:4 Demultiplexer using Gate, D
 | 0  | 1  | 0  | D  | 0  | 0  |
 | 1  | 0  | 0  | 0  | D  | 0  |
 | 1  | 1  | 0  | 0  | 0  | D  |
+
